@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Certifications"
+  - title: "Certifications" 
     url: /certifications/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
