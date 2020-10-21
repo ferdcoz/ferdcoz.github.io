@@ -5,10 +5,10 @@ title: "Certifications"
 author_profile: true
 header:
     image: "/images/ba-banner.jpg"
----  
-![](/images/badges/azure-data-engineer.png =200x200)<!-- -->
-![](/images/badges/dp-200.png =200x200)<!-- -->
-![](/images/badges/dp-201.png =200x200)<!-- -->
+---
+<img src="/images/badges/azure-data-engineer.png" alt="drawing" width="200"/>
+<img src="/images/badges/dp-200.png" alt="drawing" width="200"/>
+<img src="/images/badges/dp-201.png" alt="drawing" width="200"/>
 
 # Microsoft
 ## Azure Data Engineer
