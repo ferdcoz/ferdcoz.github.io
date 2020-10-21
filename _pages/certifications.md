@@ -6,9 +6,9 @@ author_profile: true
 header:
     image: "/images/ba-banner.jpg"
 ---  
-![](/images/badges/azure-data-engineer.png)<!-- -->
-![](/images/badges/dp-200.png)<!-- -->
-![](/images/badges/dp-201.png)<!-- -->
+![](/images/badges/azure-data-engineer.png =200x200)<!-- -->
+![](/images/badges/dp-200.png =200x200)<!-- -->
+![](/images/badges/dp-201.png =200x200)<!-- -->
 
 # Microsoft
 ## Azure Data Engineer
