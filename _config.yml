@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Fernando Coz"
-  avatar           : "/images/bio-photo.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.JPG" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Specialist Portfolio"
   location         : "Buenos Aires, ARG"
   email            :
