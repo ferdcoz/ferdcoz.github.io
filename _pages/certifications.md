@@ -6,24 +6,23 @@ author_profile: true
 header:
     image: "/images/ba-banner.jpg"
 ---  
+![](/images/badges/azure-data-engineer.png)<!-- -->
+![](/images/badges/dp-200.png)<!-- -->
+![](/images/badges/dp-201.png)<!-- -->
+
 # Microsoft
 ## Azure Data Engineer
-### DP-200 exam: 
-
-### DP-201 exam:
 
 ## Azure Fundamentals
 
 ## Azure Data Fundamentals
 
-## Azure DAta Analyst
+## Azure Data Analyst
 
 ## MCSA: BI Reporting
-### 70-778 exam:
-### 70-779 exam:
 
-# APMG
-
-# Amazon
+# APMG - INTERNATIONAL
+## ITIL Foundation v3
 
 # Lean
+## Six Sigma (Green Belt)
