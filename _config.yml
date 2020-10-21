@@ -279,9 +279,9 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
-    - scope:
+  - scope:
       path: ""
       type: pages
     values:
