@@ -1,7 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://ferdcoz.github.io/about/
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Certifications"
+    url: /certifications/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

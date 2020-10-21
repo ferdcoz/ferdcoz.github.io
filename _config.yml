@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Fernando Coz"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Data Scientist"
 name                     : "Fernando Coz"
-description              : "Data Specialist Portfolio"
+description              : "Una frase copada"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Fernando Coz"
   avatar           : "/images/bio-photo.JPG" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Specialist Portfolio"
+  bio              : "Data Scientist"
   location         : "Buenos Aires, ARG"
   email            :
   links:
