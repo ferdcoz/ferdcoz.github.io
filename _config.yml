@@ -279,7 +279,8 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _posts
+      
+  # _pages
     - scope:
       path: ""
       type: pages
