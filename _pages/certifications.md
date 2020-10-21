@@ -20,6 +20,7 @@ header:
 ## Microsoft Exams
 <img src="/images/badges/dp-200.png" alt="drawing" width="150"/>
 <img src="/images/badges/dp-201.png" alt="drawing" width="150"/>
+<img src="/images/badges/70-778.png" alt="drawing" width="150"/>
 - DP-200: Implementing an Azure Data Solution
 - DP-201: Designing an Azure Data Solution
 - DP-900: Microsoft Azure Data Fundamentals
