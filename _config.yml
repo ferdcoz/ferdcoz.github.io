@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Fernando Coz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Specialist Portfolio"
   location         : "Buenos Aires, ARG"
   email            :
@@ -117,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linked-in"
+      url: "https://www.linkedin.com/in/fernando-coz-5b765493"
 
 # Site Footer
 footer:
