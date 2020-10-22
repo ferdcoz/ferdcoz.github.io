@@ -3,7 +3,8 @@ title: "About me"
 permalink: /about/
 header:
     image: "/images/ba-banner.jpg"
----  
+---
+
 Hello world! I avoid putting labels to people, so for the sake of this site let's say I consider myself belonging to the 'data enthusiastic' cluster (somedays working as data analyst somedays as data engineer and other days as data scientist) with electronics, information systems engineering, math and statistics background.
 
 I play bass, electric guitar and drums but I'm not good at singing. When I'm not diving across data lakes or data oceans, I enjoy travelling, go hiking, climbing mountains and making music or reparing my musician gear.

@@ -4,7 +4,7 @@ permalink: /certifications/
 title: "Certifications and exams"
 author_profile: true
 header:
-    image: "/images/ba-banner.jpg"
+    image: "/images/certifications.jpg"
 ---
 
 ## Microsoft Certifications
