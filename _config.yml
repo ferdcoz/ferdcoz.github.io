@@ -20,7 +20,7 @@ title                    : "Fernando Coz"
 title_separator          : "-"
 subtitle                 : "Data Scientist"
 name                     : "Fernando Coz"
-description              : "Una frase copada"
+description              : #"Una frase copada"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,6 +99,12 @@ author:
   location         : "Buenos Aires, ARG"
   email            :
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/fernando-coz-5b765493"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ferdcoz"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:fernando.damian.coz@gmail.com"
@@ -111,15 +117,10 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ferdcoz"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/fernando-coz-5b765493"
+
 
 # Site Footer
 footer:
