@@ -118,7 +118,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fab fa-linked-in"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/fernando-coz-5b765493"
 
 # Site Footer

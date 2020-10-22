@@ -30,8 +30,8 @@ header:
 
 ## APMG - INTERNATIONAL
 <img src="/images/badges/itil.png" alt="drawing" width="150"/>
-- ITIL Foundations v3
+- ITIL Foundations v3 (Nov-13/Present)
 
 ## Lean
 <img src="/images/badges/6sigma.png" alt="drawing" width="150"/>
-- Lean Six Sigma Green Belt
+- Lean Six-Sigma Green Belt (Feb-14/Present)
