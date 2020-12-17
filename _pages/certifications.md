@@ -8,7 +8,6 @@ header:
 ---
 
 ## Microsoft Certifications
-<img src="/images/badges/azure-data-analyst.png" alt="drawing" width="150"/>
 <img src="/images/badges/azure-data-engineer.png" alt="drawing" width="150"/>
 <img src="/images/badges/data-fundamentals.png" alt="drawing" width="150"/>
 <img src="/images/badges/azure-fundamentals.png" alt="drawing" width="150"/>
