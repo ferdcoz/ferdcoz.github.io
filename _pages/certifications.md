@@ -8,11 +8,11 @@ header:
 ---
 
 ## Microsoft Certifications
-<img src="/images/badges/azure-data-analyst.png" alt="drawing" width="100"/>
-<img src="/images/badges/azure-data-engineer.png" alt="drawing" width="100"/>
-<img src="/images/badges/data-fundamentals.png" alt="drawing" width="100"/>
-<img src="/images/badges/azure-fundamentals.png" alt="drawing" width="100"/>
-<img src="/images/badges/mcsa-bi-reporting.png" alt="drawing" width="100"/>
+<img src="/images/badges/azure-data-analyst.png" alt="drawing" width="150"/>
+<img src="/images/badges/azure-data-engineer.png" alt="drawing" width="150"/>
+<img src="/images/badges/data-fundamentals.png" alt="drawing" width="150"/>
+<img src="/images/badges/azure-fundamentals.png" alt="drawing" width="150"/>
+<img src="/images/badges/mcsa-bi-reporting.png" alt="drawing" width="150"/>
 - Azure Data Analyst Associate (Dec-20/Dec-22)
 - Azure Data Engineer Associate (Sep-20/Present)
 - Azure Data Fundamentals (Aug-20/Aug-22)
